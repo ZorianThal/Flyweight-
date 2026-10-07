@@ -1,0 +1,15 @@
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.AssemblyInfoInputs.cache
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.AssemblyInfo.cs
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.csproj.CoreCompileInputs.cache
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\bin\Debug\net10.0\Prisposob.exe
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\bin\Debug\net10.0\Prisposob.deps.json
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\bin\Debug\net10.0\Prisposob.runtimeconfig.json
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\bin\Debug\net10.0\Prisposob.dll
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\bin\Debug\net10.0\Prisposob.pdb
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.dll
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\refint\Prisposob.dll
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.pdb
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.genruntimeconfig.cache
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\ref\Prisposob.dll
+C:\Users\Inerrablerei\source\repos\Prisposob\Prisposob\obj\Debug\net10.0\Prisposob.csproj.Up2Date
